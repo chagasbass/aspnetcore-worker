@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Woker.Api", "Woker.Api\Woker.Api.csproj", "{565C25BC-9D1D-4973-B640-7ECB959EFE8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Worker.Leitura", "Worker.Leitura\Worker.Leitura.csproj", "{0C7A37D2-3E70-4EC8-9D03-8C2C5B6588AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{565C25BC-9D1D-4973-B640-7ECB959EFE8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{565C25BC-9D1D-4973-B640-7ECB959EFE8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{565C25BC-9D1D-4973-B640-7ECB959EFE8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{565C25BC-9D1D-4973-B640-7ECB959EFE8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C7A37D2-3E70-4EC8-9D03-8C2C5B6588AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C7A37D2-3E70-4EC8-9D03-8C2C5B6588AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C7A37D2-3E70-4EC8-9D03-8C2C5B6588AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C7A37D2-3E70-4EC8-9D03-8C2C5B6588AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BDE3285-B2EE-4A9D-95B8-C6B5F166B7DF}
+	EndGlobalSection
+EndGlobal
